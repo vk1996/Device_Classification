@@ -38,7 +38,7 @@ Visualize Network on Test Images[Y/N] : Y
 
 ```
 
-###### The report pdf consists of ipynb explaining the training process. The model conversion of onnx and coreML is explained in the report along with installation of conversion related libraries. The Preprocessing&Output_layer.pdf has details involving our simple preprocessing pipeline and what the output layer pumps out . ######
+The report pdf consists of ipynb explaining the training process. The model conversion of onnx and coreML is explained in the report along with installation of conversion related libraries. The Preprocessing&Output_layer.pdf has details involving our simple preprocessing pipeline and what the output layer pumps out .
 
 
 
