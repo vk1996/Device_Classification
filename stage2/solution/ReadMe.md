@@ -4,9 +4,9 @@
 You just stumbled upon fs0c131y's Device Classification Software. We promise a train_AUC of 1.000 and val_AUC of 0.99997 
 We have trained our Densely Connected Model with prediction classes ordered as  1 for [device_A], 2 for [device_B], 3 for [device_C] ,4 for [device_D], 0 for [No device] .
 
-##### The accpeted input image formats are common formats like jpg,jpeg,png.The image size should be greater than 400*400(refer preprocessing_output_details.pdf) . ###
+#### The accpeted input image formats are common formats like jpg,jpeg,png.The image size should be greater than 400*400(refer preprocessing_output_details.pdf) . ###
   
-####To install required packages #
+#### To install required packages #
 ```bash
 $pip3 install -r requirements.txt
 $sudo apt-get install python3-opencv
@@ -28,7 +28,7 @@ submission/
 
 The cli gets the input for filepath,modelpath from the user. The cli will guide once you get started.
 
-##### Execution #####
+#### Execution ####
 
 ``` bash
 $ python3 fsociety.py test
