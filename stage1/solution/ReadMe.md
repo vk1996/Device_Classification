@@ -6,20 +6,6 @@ File Structure:
 ```
 Solution
 
-  -data
-     -train (The train.zip is 1GB. Owing to technical issues we were not able to upload the train with submission.zip.
-     Kindly download it from our drive https://drive.google.com/open?id=1-wZsGQP8mT4X4BlPf6eFuuCo_3l8vRx8 . We will host it until gdrive     		exists)
-
-     -val
-       -new
-       -old
-       -random
-
-     -test
-       -new
-       -old
-       -random
-
    -Device_Detection.ipynb
 
    -model 
