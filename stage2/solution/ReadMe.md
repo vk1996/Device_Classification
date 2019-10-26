@@ -16,7 +16,7 @@ $sudo apt-get install python3-opencv
 ```
 submission/  
     model/
-        Download model from [https://drive.google.com/file/d/1qu1D20wVP1hlA2eKTEf6IUPeTY7riNJA/view?usp=sharing] and place here
+        Download model from [ https://drive.google.com/file/d/1qu1D20wVP1hlA2eKTEf6IUPeTY7riNJA/view?usp=sharing ] and place here
     
     fsociety.py  
     output.csv (after prediction, the csv will be here.) 
