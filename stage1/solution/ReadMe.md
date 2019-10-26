@@ -44,7 +44,7 @@ To visualize, open software in test mode and press [Y] for visualization questio
 
 For all validation,submission and train mode,
 
-'''
+```
 
 validation_directory-       data/val
 submission_directory-      data/val/*
@@ -52,7 +52,7 @@ train_directory-           data/train (if downloaded train.zip from drive link a
 model_directory -          model/model.h5
 test_sample -              path to any jpg,png,jpeg etc
 
-'''
+```
 
 
 
